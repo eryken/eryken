@@ -1,14 +1,6 @@
 ### Boas Vindas Ao Meu Perfil
 
-- 👋 Hi, I’m @eryken
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ Meu nome é Eryken Gabriel
 
-<!---
-eryken/eryken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Meu e-mail é oliveira.eryken@escola.pr.gov.br
+ 
