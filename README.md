@@ -4,4 +4,4 @@
 
  Meu e-mail é oliveira.eryken@escola.pr.gov.br
  
-https://media.tenor.com/e4BlGRE5D3AAAAAM/breakdancing-breaking.gif
+![](https://media.tenor.com/4gm7szH1mOUAAAAM/friends-chandler.gif)
